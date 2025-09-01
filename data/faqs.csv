@@ -1,0 +1,4 @@
+task,response
+Schedule a meeting tomorrow at 2 PM,Create Google Calendar event for tomorrow 2 PM
+Remind me about project deadline next week,Set reminder for next week
+Book a call with John on Friday,Create Google Calendar event for call with John on Friday
